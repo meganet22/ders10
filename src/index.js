@@ -5,6 +5,6 @@ import C1 from './C1';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <C1 />
+  <C1 acKapa />
 );
 
